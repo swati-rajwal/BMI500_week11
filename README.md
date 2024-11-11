@@ -31,4 +31,7 @@
 3. Sameni, R., & Alphanumerics Lab. EpidemicModeling [Computer software]. GitHub. https://github.com/alphanumericslab/EpidemicModeling
 4. https://en.wikipedia.org/wiki/Basic_reproduction_number
 
+# ⚠️Disclaimer
+Perplexity.ai was used to complete HW #1.C to understand the concept of the basic reproductive number
+
 
