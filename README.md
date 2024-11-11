@@ -12,10 +12,14 @@
 - The SIR and SEIR models effectively simulate pandemic dynamics and shows epidemic curves with initial peaks and subsequent declines in infection rates.
 - The basic reproduction number ($R_0$), transmission ($\beta$) and recovery ($\gamma$) rates are critical in shaping infection curves.
 - Lower $\beta$ values (one option: through social distancing) and higher $\gamma$ values (one option: through medical intervention) can significantly reduce both peak and total infections.
+<p align="center">
+  <img src="figures/6.png" width="500" alt="Experimental Task Design">
+</p>
+<p align="center"><b>Figure 1:  Peak infection over a year for each β and γ combination.</b></p>
 
 # 👩‍💻Comparative Model Performance
-- **SIR vs. SEIR**: The SEIR model provides a more realistic simulation by incorporating an "Exposed" compartment, introducing a delay in infection spread. It also accounts for birth and death rates, allowing for long-term cyclical dynamics.
-- **Sensitivity Analysis**: Analysis of $\beta$ and $\gamma$ combinations highlights that lower transmission and higher recovery rates are optimal for minimizing infection spread and impact on healthcare systems.
+- Compared to SIR, the SEIR model provides a more realistic simulation by incorporating an "Exposed" compartment, introducing a delay in infection spread. It also accounts for birth and death rates, allowing for long-term cyclical dynamics.
+- During the sensitivity analysis, it was found that analysis of $\beta$ and $\gamma$ combinations highlights that lower transmission and higher recovery rates are optimal for minimizing infection spread and impact on healthcare systems.
 
 # 📌Relevance to Model-based Machine Learning
 - These epidemic models demonstrate the effectiveness of mathematical frameworks in simulating real-world disease dynamics, providing valuable insights for data-driven decision-making in public health.
