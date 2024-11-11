@@ -1,5 +1,5 @@
 <h1 align="center">An Introduction to Model-based Machine Learning – Homework</a></h1>
-<h5 align="center">Submitted as part of BMI 500 Coursework at Emory University</h5>
+<h5 align="center">Submitted as part of BMI 500 Coursework (Week 11) at Emory University</h5>
 <h5 align="center">Submitted by Swati Rajwal</h5>
 <h5 align="center">
 
