@@ -41,5 +41,5 @@
 8. A. Tasciotti, F. Urban, F. de Dea, L. Bortolussi, G. Caravagna and A. D'Onofrio, "Deep Learning-Informed Bayesian Model-Based Analysis to Estimate Superspreading Events in Epidemic Outbreaks," in IEEE Access, vol. 12, pp. 161375-161400, 2024, doi: 10.1109/ACCESS.2024.3490374.
 
 # ⚠️Disclaimer
-Perplexity.ai was used to complete HW #1.C to understand the concept of the basic reproductive number
-Perplexity.ai was used to find resources to understand SIR and SEIR's relevance to model-based machine learning.
+- Perplexity.ai was used to complete HW #1.C to understand the concept of the basic reproductive number
+- Perplexity.ai was used to find resources to understand SIR and SEIR's relevance to model-based machine learning.
