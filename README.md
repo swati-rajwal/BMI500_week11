@@ -6,15 +6,16 @@
 # 🎯Introduction
 - Name & Contact: Swati Rajwal (swati.rajwal@emory.edu)
 - The question number you select to answer: 1
+- Report submitted on Canvas ([PDF](https://github.com/swati-rajwal/BMI500_week11/blob/main/Rajwal_BMI500_HW11.pdf))
 
 # 📈Key Insights
 - The SIR and SEIR models effectively simulate pandemic dynamics and shows epidemic curves with initial peaks and subsequent declines in infection rates.
-- The basic reproduction number (\(R_0\)), transmission (\( \beta \)) and recovery (\( \gamma \)) rates are critical in shaping infection curves.
-- Lower \( \beta \) values (e.g., through social distancing) and higher \( \gamma \) values (e.g., through medical intervention) can significantly reduce both peak and total infections.
+- The basic reproduction number ($R_0$), transmission ($\beta$) and recovery ($\gamma$) rates are critical in shaping infection curves.
+- Lower $\beta$ values (one option: through social distancing) and higher $\gamma$ values (one option: through medical intervention) can significantly reduce both peak and total infections.
 
 # 👩‍💻Comparative Model Performance
 - **SIR vs. SEIR**: The SEIR model provides a more realistic simulation by incorporating an "Exposed" compartment, introducing a delay in infection spread. It also accounts for birth and death rates, allowing for long-term cyclical dynamics.
-- **Sensitivity Analysis**: Analysis of \( \beta \) and \( \gamma \) combinations highlights that lower transmission and higher recovery rates are optimal for minimizing infection spread and impact on healthcare systems.
+- **Sensitivity Analysis**: Analysis of $\beta$ and $\gamma$ combinations highlights that lower transmission and higher recovery rates are optimal for minimizing infection spread and impact on healthcare systems.
 
 # 📌Relevance to Model-based Machine Learning
 - These epidemic models demonstrate the effectiveness of mathematical frameworks in simulating real-world disease dynamics, providing valuable insights for data-driven decision-making in public health.
