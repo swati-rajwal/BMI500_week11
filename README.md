@@ -6,8 +6,7 @@
 # 🎯Introduction
 - Name & Contact: Swati Rajwal (swati.rajwal@emory.edu)
 - The question number you select to answer: 1
-- Report submitted on Canvas ([PDF](https://github.com/swati-rajwal/BMI500_week11/blob/main/Rajwal_BMI500_HW11.pdf))
-
+- Report submitted on Canvas (<a href="https://github.com/swati-rajwal/BMI500_week11/Rajwal_BMI500_HW11.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">Read the report</a>)
 # 📈Key Insights
 - The SIR and SEIR models effectively simulate pandemic dynamics and shows epidemic curves with initial peaks and subsequent declines in infection rates.
 - The basic reproduction number ($R_0$), transmission ($\beta$) and recovery ($\gamma$) rates are critical in shaping infection curves.
