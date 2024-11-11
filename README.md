@@ -26,7 +26,7 @@
 - Sensitivity analyses offer a structured approach to assess the impact of varying parameters that align with model-based machine learning principles to enhance model robustness and applicability.
 
 # 💭Suggestions for future modeling improvements
-- The basic modeling improvement would be to add more compartments (already vaccinated individuals) to simulate different intervention strategies (this was probably discussed during the lecture).
+- The basic modeling improvement would be to add more compartments (already vaccinated individuals) to simulate different intervention strategies.
 - Researchers [7] have also shown that we need to incorporate additional factors like government policies, individual behaviors, and spatial spread into epidemic models. So, SEIR or SIR model may not be sufficient. Machine learning methods are well-suited to handle these multifaceted inputs.
 - For future modeling improvement, bayesian inference techniques for parameter estimation and uncertainty quantification can also be explored as has been explored[8].
 
